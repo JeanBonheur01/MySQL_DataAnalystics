@@ -24,9 +24,8 @@ The main areas to focus on:
   1. Creation of the database schema
      - Creation of the schema was done in the platform "QuickDBD"
 
-    After considering the business objectives, a database schema was created following normalization priciples to avoid redundancy
-    and make the database more practical and efficient. 
-    Here is the final schema that was built: 
+   After considering the business objectives, a database schema was created following normalization priciples to avoid redundancy and make the database more practical and efficient. 
+   Here is the final schema that was built: 
     ![QuickDBD-JB's Pizza](https://github.com/JeanBonheur01/MySQL_DataAnalystics/assets/131664311/876bbd0e-8ab9-49a5-a78b-a1ed11b1efdc)
     
   2. Creation of a database in "MySQL" and importing the externally created schema into the MySQL database. 
