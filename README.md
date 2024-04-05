@@ -33,4 +33,6 @@ The main areas to focus on:
 
 #### Step2: Write SQL Queries (views)
 
+Since the data needed for vizualization resides across different tables in the database, some custom queries has been performed to join the desired data togheter.  
+
 #### Step3: Build daschboards
