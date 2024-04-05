@@ -10,10 +10,10 @@ This data/information will the be analyzed and visualized to gain more intellige
 The main areas to focus on: 
 1. Orders
 2. Stock control
-   - What ingredients go into each pizza
-   - Their quantity based on the size of the pizza
-   - The existing stock level
-     NB! In this project, it is assumed that the lead time for delivery by suppliers is the same for all ingredients. 
+   - What ingredients go into each pizza?  
+   - Their quantity based on the size of the pizza 
+   - The existing stock level 
+   NB! In this project, it is assumed that the lead time for delivery by suppliers is the same for all ingredients. 
 4. Staff
    - Which staff members are working and when
    - Based on the staff salary information, determine the cost of each pizza (ingredients+chefs+delivery cost)
@@ -27,6 +27,7 @@ The main areas to focus on:
     After considering the business objectives, a database schema was created following normalization priciples to avoid redundancy
     and make the database more practical and efficient. 
     Here is the final schema that was built: 
+    ![QuickDBD-JB's Pizza](https://github.com/JeanBonheur01/MySQL_DataAnalystics/assets/131664311/876bbd0e-8ab9-49a5-a78b-a1ed11b1efdc)
     
   2. Creation of a database in "MySQL" and importing the externally created schema into the MySQL database. 
   3. Uploading of data into different tables in MySQL. 
