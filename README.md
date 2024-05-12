@@ -44,7 +44,7 @@ Here is the final schema that was built:
 ---
 ### Data Cleaning/Preparation
 
-In the initial data preparation phase, I performed the following tasks: 
+In the initial data preparation phase, the following tasks were performed: 
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting.
